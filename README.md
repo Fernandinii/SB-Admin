@@ -8,8 +8,8 @@ El proyecto fue desarrollado de forma colaborativa utilizando **Git** y **GitHub
 
 ## Colaboradores y Roles
 
-* **Developer 1:** Estructura semántica, maquetación HTML base (`index.html`, `tables.html`, etc.) y arquitectura de directorios.(elavorado por DIEGO FERNANDO DOMÍNGUEZ SÁNCHEZ)
-* **Developer 2:** Hojas de estilo personalizadas (CSS), diseño visual, responsividad y componentes visuales.(elavorado por CARLOS EDUARDO DOMÍNGUEZ HERNANDEZ)
+* **Developer 1:** Estructura semántica, maquetación HTML base (`index.html`, `tables.html`, etc.) y arquitectura de directorios.(elaborado por DIEGO FERNANDO DOMÍNGUEZ SÁNCHEZ)
+* **Developer 2:** Hojas de estilo personalizadas (CSS), diseño visual, responsividad y componentes visuales.(elaborado por CARLOS EDUARDO DOMÍNGUEZ HERNANDEZ)
 
 ---
 
@@ -17,9 +17,9 @@ El proyecto fue desarrollado de forma colaborativa utilizando **Git** y **GitHub
 
 Para garantizar un desarrollo ordenado e independiente, se establecieron las siguientes ramas:
 
-* `main`: Rama de producción estable que contiene el código integrado y final.
-* `developer1`: Rama de trabajo para la maquetación del esqueleto HTML.
-* `developer2`: Rama de trabajo para los estilos CSS y apariencia visual.
+* `main`: Rama de producción estable que contiene el código integrado y final.(DFS)
+* `developer1`: Rama de trabajo para la maquetación del esqueleto HTML.(DFS)
+* `developer2`: Rama de trabajo para los estilos CSS y apariencia visual.(CEDH)
 
 ### Ciclo de Integración:
 1. Cada desarrollador realizó sus cambios en su respectiva rama (`developer1` / `developer2`).
