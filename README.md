@@ -32,8 +32,8 @@ Para garantizar un desarrollo ordenado e independiente, se establecieron las sig
 
 ```text
 sbadmin/
-├── assets/         # Recursos gráficos, iconos e imágenes
-├── js/             # Scripts de interactividad y plugins
-├── index.html      # Vista principal del panel de administración
-├── tables.html     # Vista de tablas y datos estructurados
-└── README.md       # Documentación del proyecto
+├── assets/          Recursos gráficos, iconos e imágenes
+├── js/              Scripts de interactividad y plugins
+├── index.html       Vista principal del panel de administración
+├── tables.html      Vista de tablas y datos estructurados
+└── README.md        Documentación del proyecto
